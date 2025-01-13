@@ -95,6 +95,7 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/master/scripts/ins
 **macOS**
 ```bash
 curl -fsSL https://aizaozao.com/accelerate.php/https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_mac_id_modifier.sh | sudo bash
+curl -fsSL https://mirror.ghproxy.com/https://github.com/8080713/go-cursor-help/raw/refs/heads/master/scripts/install.sh  | sudo bash
 ```
 
 **Linux**
