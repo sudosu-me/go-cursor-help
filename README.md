@@ -90,7 +90,7 @@ curl -fsSL https://raw.githubusercontent.com/yuaotian/go-cursor-help/master/scri
 
 **Windows**
 ```powershell
-irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/master/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/sudosu-me/go-cursor-help/master/scripts/install.ps1 | iex
 ```
 </details>
 
